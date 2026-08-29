@@ -8,7 +8,7 @@
 Passionate about Data Analytics, Programming & Teaching
 </p>
 
-<a href=www.linkedin.com/in/sandhiya-m-81b64134b>
+<a href="www.linkedin.com/in/sandhiya-m-81b64134b">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -130,11 +130,11 @@ matches, and winning patterns.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Sandhiya-sandya&show_icons=true&theme=tokyonight">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandhiya-sandya&theme=tokyonight">
 
 </div>
 
@@ -144,11 +144,11 @@ matches, and winning patterns.
 
 <div align="center">
 
-<a href=www.linkedin.com/in/sandhiya-m-81b64134b>
+<a href="www.linkedin.com/in/sandhiya-m-81b64134b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href=(https://github.com/Sandhiya-sandya)>
+<a href="(https://github.com/Sandhiya-sandya)">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
 </a>
 
